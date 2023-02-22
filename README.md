@@ -1,2 +1,2 @@
 # first_repository
-Learning devops materials
+My first git repository
